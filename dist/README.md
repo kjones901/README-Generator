@@ -1,8 +1,8 @@
-# test
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Note Taker
+  
   
   ## Description
-    test
+    This This application utilizes express to create, save, and delete notes.
   
   ## Table of Contents
   - [Installation](#installation)
@@ -12,18 +12,18 @@
   - [Questions](#questions)
   
   ## Installation
-      test
+      None
   
   ## Usage 
-    test
+    Enter a title and text for a note you'd like to save. Delete notes when they're no longer needed.
   
   ## Credit
-    test
+    
   
   ## License
-    This project is licensed under the MIT License. This license allows you to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software without restriction, as long as the original copyright notice and license terms are included. For more information,please see the full text of the MIT License.(https://opensource.org/licenses/MIT).
+    Unlicensed
   
   ## Questions
-  - [Github](https://github.com/test)
-  - test
+  - [Github](https://github.com/kjones901)
+  - 
   
